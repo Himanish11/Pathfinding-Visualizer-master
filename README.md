@@ -1,7 +1,3 @@
-Here’s the updated README to reflect your specific maze patterns and algorithms:
-
----
-
 # Pathfinding Visualizer
 
 A web-based pathfinding visualizer that demonstrates the functionality of various pathfinding algorithms. This tool allows users to visualize how algorithms navigate through a grid to find the shortest path between two points. It also includes multiple maze patterns for creating custom environments, enabling deeper insights into how different algorithms perform.
